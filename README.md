@@ -5,4 +5,3 @@
 - 📫 How to reach me: currently I'm mostly present on [Twitter](https://twitter.com/Dimterion) and also write stories on [Medium](https://medium.com/@dimterion)
 - ▶️ You can check my [Profile page](https://dimterion.github.io/)
 - 📝 And [Here](https://portfolio-site-dimterion.vercel.app/projects) is the list of my projects
-- 
