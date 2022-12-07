@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://dimterion.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Dimterion/Dimterion/blob/main/1814089_account_user_person_profile_avatar_icon.png" />
+  <a href="https://dimterion.github.io/">
+    <img height="50" src="https://github.com/Dimterion/Dimterion/blob/main/1814089_account_user_person_profile_avatar_icon.png" />
   </a>
 </div>
 
