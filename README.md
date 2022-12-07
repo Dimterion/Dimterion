@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/GitHub_profile_header.png" />
+  <img src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/GitHub_profile_header.png" alt="Header with the name." />
 </div>
 
 <div align="center">
   <a href="https://dimterion.github.io/">
-    <img height="50" src="https://github.com/Dimterion/Dimterion/blob/main/1814089_account_user_person_profile_avatar_icon.png" />
+    <img height="50" src="https://github.com/Dimterion/Dimterion/blob/main/1814089_account_user_person_profile_avatar_icon.png" alt="Profile site icon" />
   </a>
   <a href="https://www.linkedin.com/in/dmitrii-p/">
-    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/317725_linkedin_social_icon.png" />
+    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/317725_linkedin_social_icon.png" alt="LinkedIn icon" />
   </a>
   <a href="https://twitter.com/Dimterion/">
-    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/5296516_tweet_twitter_twitter%20logo_icon.png" />
+    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/5296516_tweet_twitter_twitter%20logo_icon.png" alt="Twitter icon" />
   </a>
   <a href="https://medium.com/@dimterion/">
-    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/8726096_medium_m_icon.png" />
+    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/8726096_medium_m_icon.png" alt="Medium icon" />
   </a>
 </div>
 
@@ -61,6 +61,25 @@ currently_working_on:
   ]
 
 ```
+
+---
+
+<h2>🔧 Tech Stack</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VScode icon" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="ReactJS icon" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5 icon" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap icon" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3 icon" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js icon" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git icon" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma icon" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS icon" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS icon" width="45" height="45" />
+</div>
+
+---
 
 - 🌱 I’m currently working with React (above that I'm constantly catching up with JavaScript and have some knowledge of Next.js)
 - 💞️ I’m looking to collaborate and work on projects which would be appropriate to my current level (HTML/CSS/JS/React/React Router/Redux)
