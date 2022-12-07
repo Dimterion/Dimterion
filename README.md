@@ -4,8 +4,6 @@
 
 <h1 align="center">Web Developer / Front-End</h1>
 
-<h2>🔭 Some of my Profiles</h2>
-
 <div align="center">
   <a href="https://dimterion.github.io/">
     <img height="50" src="https://github.com/Dimterion/Dimterion/blob/main/1814089_account_user_person_profile_avatar_icon.png" alt="Profile site icon" />
