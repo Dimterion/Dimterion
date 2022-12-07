@@ -13,7 +13,7 @@
     <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/5296516_tweet_twitter_twitter%20logo_icon.png" />
   </a>
   <a href="https://medium.com/@dimterion/">
-    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/7088990_medium_medium%20logo_icon.png" />
+    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/7079376_medium%20logo_medium_icon.png" />
   </a>
 </div>
 
