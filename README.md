@@ -53,7 +53,7 @@ currently_working_on:
     "Constantly catching up with JavaScript / CSS / HTML",
     "Exploring frameworks: Next.js, Tailwind CSS"
   ]
- hobbies:
+hobbies:
   [
     "Writing stories / articles",
     "Personal Development",
@@ -96,7 +96,7 @@ currently_working_on:
 
 - I’m currently mostly working with React (above that I'm constantly catching up with JavaScript and have some knowledge of Next.js)
 - I’m looking to collaborate and work on projects which would be appropriate to my current level (HTML/CSS/JS/React)
-- How to reach me: you can find links to my profile site and social channels above. For now I'm mostly present on [Twitter](https://twitter.com/Dimterion) and also write stories on [Medium](https://medium.com/@dimterion) every Friday
+- How to reach me: you can find links to my profile site and social channels above. For now I'm mostly present on [Twitter](https://twitter.com/Dimterion) and write stories on [Medium](https://medium.com/@dimterion) every Friday
 - You can also check my [Profile page](https://dimterion.github.io/)
 - And [here](https://portfolio-site-dimterion.vercel.app/projects) is the list of my projects which you can additionally see in my profile's repositories
 - The courses I've completed so far are listed [here](https://portfolio-site-dimterion.vercel.app/studies)
