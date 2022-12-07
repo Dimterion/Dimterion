@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/GitHub_profile_header.png" alt="Header with the name." />
 </div>
 
+<h1 align="center">Web Developer / Front-End</h1>
+
+<h2>🔭 Some of my Profiles</h2>
+
 <div align="center">
   <a href="https://dimterion.github.io/">
     <img height="50" src="https://github.com/Dimterion/Dimterion/blob/main/1814089_account_user_person_profile_avatar_icon.png" alt="Profile site icon" />
@@ -88,9 +92,13 @@ currently_working_on:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimterion&theme=react&layout=compact" />
 </a>
 
-- 🌱 I’m currently working with React (above that I'm constantly catching up with JavaScript and have some knowledge of Next.js)
-- 💞️ I’m looking to collaborate and work on projects which would be appropriate to my current level (HTML/CSS/JS/React/React Router/Redux)
-- 📫 How to reach me: you can find links to my profile site and social channels above. Currently I'm mostly present on [Twitter](https://twitter.com/Dimterion) and also write stories on [Medium](https://medium.com/@dimterion) every Friday
-- ▶️ You can check my [Profile page](https://dimterion.github.io/)
-- 📝 And [here](https://portfolio-site-dimterion.vercel.app/projects) is the list of my projects which you can additionally see in my profile's repositories
-- 📜 The courses I've completed so far are listed [here](https://portfolio-site-dimterion.vercel.app/studies)
+---
+
+<h2>📝 Misc.</h2>
+
+- I’m currently mostly working with React (above that I'm constantly catching up with JavaScript and have some knowledge of Next.js)
+- I’m looking to collaborate and work on projects which would be appropriate to my current level (HTML/CSS/JS/React)
+- How to reach me: you can find links to my profile site and social channels above. For now I'm mostly present on [Twitter](https://twitter.com/Dimterion) and also write stories on [Medium](https://medium.com/@dimterion) every Friday
+- You can also check my [Profile page](https://dimterion.github.io/)
+- And [here](https://portfolio-site-dimterion.vercel.app/projects) is the list of my projects which you can additionally see in my profile's repositories
+- The courses I've completed so far are listed [here](https://portfolio-site-dimterion.vercel.app/studies)
