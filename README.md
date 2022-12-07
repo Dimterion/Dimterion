@@ -9,6 +9,12 @@
   <a href="https://www.linkedin.com/in/dmitrii-p/">
     <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/317725_linkedin_social_icon.png" />
   </a>
+  <a href="https://twitter.com/Dimterion/">
+    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/5296516_tweet_twitter_twitter%20logo_icon.png" />
+  </a>
+  <a https://medium.com/@dimterion/">
+    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/7088990_medium_medium%20logo_icon.png" />
+  </a>
 </div>
 
 ---
