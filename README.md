@@ -2,7 +2,12 @@
   <img src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/GitHub_profile_header.png"/>
 </div>
 
-- 👋 Hi, I’m Dmitrii (@Dimterion)
+<div align="center">
+  <a href="https://dimterion.github.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Dimterion/Dimterion/blob/main/1814089_account_user_person_profile_avatar_icon.png" />
+  </a>
+</div>
+
 - 👀 I’m interested in Web Development (Front-End in particular with a bit of Back-End) and programming in general
 - 🌱 I’m currently working with React (above that I'm constantly catching up with JavaScript and have some knowledge of Next.js)
 - 💞️ I’m looking to collaborate and work on projects which would be appropriate to my current level (HTML/CSS/JS/React/React Router/Redux)
