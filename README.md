@@ -6,7 +6,12 @@
   <a href="https://dimterion.github.io/">
     <img height="50" src="https://github.com/Dimterion/Dimterion/blob/main/1814089_account_user_person_profile_avatar_icon.png" />
   </a>
+  <a href="https://www.linkedin.com/in/dmitrii-p/">
+    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/317725_linkedin_social_icon.png" />
+  </a>
 </div>
+
+---
 
 - 👀 I’m interested in Web Development (Front-End in particular with a bit of Back-End) and programming in general
 - 🌱 I’m currently working with React (above that I'm constantly catching up with JavaScript and have some knowledge of Next.js)
