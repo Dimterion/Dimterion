@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/GitHub_profile_header.png"/>
+</div>
+
 - 👋 Hi, I’m Dmitrii (@Dimterion)
 - 👀 I’m interested in Web Development (Front-End in particular with a bit of Back-End) and programming in general
 - 🌱 I’m currently working with React (above that I'm constantly catching up with JavaScript and have some knowledge of Next.js)
