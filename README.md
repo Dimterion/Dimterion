@@ -85,8 +85,10 @@ hobbies:
 ---
 
 <h2>📈 My GitHub profile stats</h2>
-<a href="https://github.com/dimterion/">
+<a href="https://github.com/Dimterion?tab=repositories">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimterion&theme=react&show_icons=true" />
+</a>
+<a href="https://dimterion.github.io/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimterion&theme=react&layout=compact" />
 </a>
 
