@@ -102,3 +102,7 @@ hobbies:
 - You can also check my [Profile page](https://dimterion.github.io/)
 - And [here](https://portfolio-site-dimterion.vercel.app/projects) is the list of my projects which you can additionally see in my profile's repositories
 - The courses I've completed so far are listed [here](https://portfolio-site-dimterion.vercel.app/studies)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/GitHub_profile_footer.png" alt="Footer line." />
+</div>
