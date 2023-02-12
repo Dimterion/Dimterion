@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/GitHub_profile_header.png" alt="Header with the name." />
 </div>
 
-<h1 align="center">Web Developer / Front-End</h1>
+<h1 align="center">Web / Applications Developer</h1>
 
 <div align="center">
   <a href="https://dimterion.github.io/">
@@ -27,7 +27,7 @@
 
 name: Dmitrii
 location: France
-field: Web Development, Front-End
+field: Web Development, Front-End, Back-End
 education:
   [
     "Bachelor’s - Level 6: JavaScript React Developer (OpenClassrooms)"
