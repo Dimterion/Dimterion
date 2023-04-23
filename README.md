@@ -15,7 +15,7 @@
     <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/5296516_tweet_twitter_twitter%20logo_icon.png" alt="Twitter icon" />
   </a>
   <a href="https://medium.com/@dimterion/">
-    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/8726096_medium_m_icon.png" alt="Medium icon" />
+    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/medium_m_icon.png" alt="Medium icon" />
   </a>
 </div>
 
