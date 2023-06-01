@@ -35,7 +35,7 @@ education:
 courses:
   [
     "Udemy - React Front to Back",
-    "Scrimba - Learn React (+ HTML / CSS / JavaScript)",
+    "Scrimba - Learn React (+ HTML / CSS / JavaScript + React Router 6)",
     "OpenClassrooms - All the courses related to the JavaScript React Developer training program"
   ]
 interests:
