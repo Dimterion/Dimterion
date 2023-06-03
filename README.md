@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/GitHub_profile_header.png" alt="Header with the name." />
+  <img src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/GitHub_profile_header.png" alt="Header with the name - Dimterion." />
 </div>
 
 <h1 align="center">Web / Applications Developer</h1>
 
 <div align="center">
   <a href="https://dimterion.github.io/">
-    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/avatar_css.png" alt="Profile site icon" />
+    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/avatar_css.png" alt="Dimterion Profile site icon" />
   </a>
   <a href="https://www.linkedin.com/in/dmitrii-p/">
     <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/317725_linkedin_social_icon.png" alt="LinkedIn icon" />
@@ -58,7 +58,7 @@ hobbies:
     "Writing stories / articles",
     "Personal Development",
     "Fitness",
-    "PC building and hardware in general",
+    "PC building and hardware",
     "Gaming"
   ]
 
