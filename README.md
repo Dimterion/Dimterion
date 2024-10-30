@@ -36,7 +36,7 @@ courses:
   [
     "Udemy - React Front to Back",
     "Scrimba - Learn React (+ HTML / CSS / JavaScript + React Router 6)",
-    "OpenClassrooms - All the courses related to the JavaScript React Developer training program"
+    "OpenClassrooms - Courses included in the JavaScript React Developer training program"
   ]
 interests:
   [
@@ -95,12 +95,10 @@ hobbies:
 
 <h2>📝 Misc.</h2>
 
-- I’m currently mostly working with React (above that I'm constantly catching up with JavaScript and have some knowledge of Next.js)
-- I’d like to collaborate and work on projects which would be appropriate to my current level (HTML/CSS/JS/React)
+- I am currently mostly working with React (above that I am constantly catching up with JavaScript and have knowledge of Next.js)
+- I would like to collaborate and work on projects which would be appropriate to my profile (HTML/CSS/JS/TS/React/Next.js/Tailwind)
 - How to reach me: you can find links to my profile site and social channels above. For now I'm mostly present on [Twitter](https://twitter.com/Dimterion) and write stories on [Medium](https://medium.com/@dimterion) every Friday
 - You can also check my [Profile page](https://dimterion.github.io/)
-- And [here](https://portfolio-site-dimterion.vercel.app/projects) is the list of my projects which you can additionally see in my profile's repositories
-- The courses I've completed so far are listed [here](https://portfolio-site-dimterion.vercel.app/studies)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/GitHub_profile_footer.png" alt="Footer line." />
