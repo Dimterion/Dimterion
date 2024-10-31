@@ -1,27 +1,27 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/GitHub_profile_header.png" alt="Header with the name - Dimterion." />
+  <img src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/gitHub_header.png" alt="Header with the name - Dimterion." />
 </div>
 
 <h1 align="center">Web / Applications Developer</h1>
 
 <div align="center">
   <a href="https://dimterion.github.io/">
-    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/avatar_css.png" alt="Dimterion Profile site icon" />
+    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/Profile_picture.jpg" alt="Dimterion Profile site icon" />
   </a>
   <a href="https://www.linkedin.com/in/dmitrii-p/">
-    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/317725_linkedin_social_icon.png" alt="LinkedIn icon" />
+    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/linkedIn_logo.png" alt="LinkedIn icon" />
   </a>
   <a href="https://twitter.com/Dimterion/">
-    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/5296516_tweet_twitter_twitter%20logo_icon.png" alt="Twitter icon" />
+    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/x_logo.png" alt="Twitter icon" />
   </a>
   <a href="https://medium.com/@dimterion/">
-    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/medium_m_icon.png" alt="Medium icon" />
+    <img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/medium_logo.png" alt="Medium icon" />
   </a>
 </div>
 
 ---
 
-<h2>👀 About Me</h2>
+<h2>About Me</h2>
 
 ```yaml
 
@@ -101,5 +101,5 @@ hobbies:
 - You can also check my [Profile page](https://dimterion.github.io/)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/GitHub_profile_footer.png" alt="Footer line." />
+  <img src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/gitHub_footer.png" alt="Footer line." />
 </div>
