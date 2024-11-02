@@ -5,10 +5,11 @@
 <h1 align="center">Technical Consultant & Developer</h1>
 
 <div align="center">
-  <a href="https://dimterion.github.io/"><img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/Profile_picture.jpg" alt="Dimterion Profile site icon" /></a>
+  <a href="https://github.com/Dimterion"><img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/gitHub_logo.png" alt="Dimterion Profile site icon" /></a>
+  <a href="https://medium.com/@dimterion/"><img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/medium_logo.png" alt="Medium icon" /></a>
+  <a href="https://dimterion.github.io/"><img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/Profile_picture.png" alt="Dimterion Profile site icon" /></a>
   <a href="https://www.linkedin.com/in/dmitrii-p/"><img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/linkedIn_logo.png" alt="LinkedIn icon" /></a>
   <a href="https://twitter.com/Dimterion/"><img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/x_logo.png" alt="Twitter icon" /></a>
-  <a href="https://medium.com/@dimterion/"><img height="50" src="https://raw.githubusercontent.com/Dimterion/Dimterion/main/medium_logo.png" alt="Medium icon" /></a>
 </div>
 
 ---
