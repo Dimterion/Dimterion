@@ -15,6 +15,8 @@
   <a href="https://twitter.com/Dimterion/"><img height="50" src="./images/x_logo.png" alt="X logo" /></a>
 </div>
 
+<a href="https://dimterion.github.io/"><img height="350" src="./images/github_profile_img.jpg" alt="GitHub profile image" /></a>
+
 <div align="center">
   <h2>Tech Stack</h2>
 </div>
